@@ -12,7 +12,7 @@
 <a href="https://twitter.com/@prajwalatkare5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@prajwalatkare5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prajwal-atkare-aa8206200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal-atkare-aa8206200" height="30" width="40" /></a>
 <a href="https://fb.com/prajwal.atkare.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prajwal.atkare.37" height="30" width="40" /></a>
-<a href="https://instagram.com/prajwal_atkare1__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajwal_atkare1__" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prajwal1___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajwal_atkare1__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
